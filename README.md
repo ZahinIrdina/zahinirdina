@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 1st Year Student in Bachelor of Computer Science (Graphic & Multimedia Software) with Honours
 -------------------------------------------------------------------------
 
-I am a dedicated and innovative Computer Science student and always eager to learn new technologies and take on challenges that expand my knowledge in both the computational and creative domains.
+I am an enthusiastic Computer Science student and always eager to learn new technologies and take on challenges that expand my knowledge in both the computational and creative domains.
 
 * 🌍  I'm based in Johor Bahru currently as a student
 * ✉️  You can contact me at [zahinirdina@graduate.utm.my](mailto:zahinirdina@graduate.utm.my)
