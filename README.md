@@ -7,7 +7,7 @@ A Student of Bachelor of Computer Science (Graphic & Multimedia Software)
 I am an enthusiastic Computer Science student and always eager to learn new technologies and take on challenges that expand my knowledge in both the computational and creative domains.
 
 * 🌍  I'm based in Johor Bahru currently as a student
-* 🖥️  See my portfolio at [My Portfolio](https://zahinirdina.github.io/(https://zahinirdina.github.io/))
+* 🖥️  See my portfolio at [My Portfolio](https://zahinirdina.github.io)
 * ✉️  You can contact me at [zahinirdina@graduate.utm.my](mailto:zahinirdina@graduate.utm.my)
 * 🧠  I'm learning C++ Programming Language
 
